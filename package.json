@@ -1,0 +1,26 @@
+{
+  "name": "thePunisherAPI",
+  "version": "1.0.0",
+  "description": "API For thePunisher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dimpleyuen/thePunisherAPI.git"
+  },
+  "keywords": [
+    "thePunisher",
+    "API"
+  ],
+  "author": "Dimple Yuen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimpleyuen/thePunisherAPI/issues"
+  },
+  "homepage": "https://github.com/dimpleyuen/thePunisherAPI",
+  "dependencies": {
+    "hapi": "^8.4.0"
+  }
+}
